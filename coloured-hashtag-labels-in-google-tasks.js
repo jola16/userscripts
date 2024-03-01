@@ -5,6 +5,7 @@
 // @description  Dynamically transforms #hashtags to coloured "labels" in Google Calendar Tasks view. To see it in action, go to your Google Calender and switch to the Tasks view. 
 // @author       Jonas Larsen
 // @match        https://tasks.google.com/embed/fullscreen*
+// @match        https://tasks.google.com/*/embed/fullscreen*
 // @icon         https://upload.wikimedia.org/wikipedia/commons/5/5b/Google_Tasks_2021.svg
 // @grant        none
 // ==/UserScript==
