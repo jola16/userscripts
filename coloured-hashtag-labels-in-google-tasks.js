@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Coloured hashtag-labels in Google Tasks
 // @namespace    https://github.com/jola16/userscripts/
-// @version      2024-02-29
+// @version      2024-02-29b
 // @description  Dynamically transforms #hashtags to coloured "labels" in Google Calendar Tasks view. To see it in action, go to your Google Calender and switch to the Tasks view. 
 // @author       Jonas Larsen
 // @match        https://tasks.google.com/embed/fullscreen*
